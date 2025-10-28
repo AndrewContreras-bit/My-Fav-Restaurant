@@ -1,0 +1,29 @@
+.footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #333;
+color: white;
+text-align: center;
+padding: 10px 0;
+}
+
+.bat{
+    height: 700px;
+    width: 300px;
+}
+
+.logo{
+  height: 700px;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+
+}
+
+body{
+    background-image: url(https://tse1.mm.bing.net/th/id/OIP.JlU5GodJ3_TVT0mEG5XA4gHaDe?rs=1&pid=ImgDetMain&o=7&rm=3);
+}
